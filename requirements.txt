@@ -1,0 +1,6 @@
+transformers
+openai
+twilio
+flask
+python-dotenv
+gunicorn
